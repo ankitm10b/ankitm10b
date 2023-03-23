@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Bandu Mandawkar</h1>
 <h3 align="center">A passionate Technical Support Engineer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitm10b&label=Profile%20views&color=0e75b6&style=flat" alt="ankitm10b" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitm10b&label=Profile%20views&color=0e75b6&style=flat" alt="ankitm10b" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitm10b" alt="ankitm10b" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitm10b" alt="ankitm10b" /></a> </p>
+ -->
 - 🌱 I’m currently learning **Technical support engineering**
 
 - 👯 Project-1 [Best-buy-clone](https://thriving-duckanoo-d67451.netlify.app)
