@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ankit Bandu Mandawkar</h1>
-<h3 align="center">A passionate Technical Support Engineer from India</h3>
+<img width=50% align=right  title="Ankit"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<h1>Hi 👋, I'm Ankit Mandawkar</h1>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Technical+Support+Engineer" alt="Typing SVG" /></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitm10b&label=Profile%20views&color=0e75b6&style=flat" alt="ankitm10b" /> </p>
+<div>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitm10b" alt="ankitm10b" /></a> </p>
- -->
-- 🌱 I’m currently learning **Technical support engineering**
+ <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right"> 
+ 
+</br> </br>
+ [![Followers](https://img.shields.io/github/followers/ankitm10b)](#)
+ [![Stars](https://img.shields.io/github/stars/ankitm10b?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
+![Profile views](https://gpvc.arturio.dev/ankitm10b)
+- 💎 I’m currently Aspiring `Technical Support Engineering`
 
 - 👯 Project-1 [Best-buy-clone](https://thriving-duckanoo-d67451.netlify.app)
 
