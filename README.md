@@ -29,7 +29,7 @@
 
 ### 🧰 Customer Service Skill's
 
-![COMMUNICATION](https://img.shields.io/badge/COMMUNICATION%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![TROUBLESHOOTING](https://img.shields.io/badge/TROUBLESHOOTING%20-green?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![PROBLEM-SOLVING](https://img.shields.io/badge/PROBLEM-SOLVING%20-grey?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ACTIVE LISTENING](https://img.shields.io/badge/ACTIVE%20 LISTENING%20-yellow?style=for-the-badge&logo=Adaptability&logoColor=white) ![EMAPATHY](https://img.shields.io/badge/EMAPATHY%20-F5C6EC?style=for-the-badge&logo=CriticalThinking&logoColor=white)
+![COMMUNICATION](https://img.shields.io/badge/COMMUNICATION%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![TROUBLESHOOTING](https://img.shields.io/badge/TROUBLESHOOTING%20-green?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![PROBLEM-SOLVING](https://img.shields.io/badge/PROBLEM-SOLVING%20-grey?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ACTIVE LISTENING](https://img.shields.io/badge/ACTIVE LISTENING%20-yellow?style=for-the-badge&logo=Adaptability&logoColor=white) ![EMAPATHY](https://img.shields.io/badge/EMAPATHY%20-F5C6EC?style=for-the-badge&logo=CriticalThinking&logoColor=white)
 
 </br>
 
