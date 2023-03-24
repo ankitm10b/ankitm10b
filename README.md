@@ -14,10 +14,6 @@
 ![Profile views](https://gpvc.arturio.dev/ankitm10b)
 - 💎 I’m currently Aspiring `Technical Support Engineering`
 
-- 👯 Project-1 [Best-buy-clone](https://thriving-duckanoo-d67451.netlify.app)
-
-- 👯 Project-2 [Firebase](https://comfy-pie-9f7719.netlify.app)
-
 - 👨‍💻 All of my projects are available at [https://ankitm10b.github.io/](https://ankitm10b.github.io/)
 
 - 💬 Ask me about **MySQL ,Linux ,HTML ,CSS, JavaScript**
