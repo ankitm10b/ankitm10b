@@ -29,13 +29,13 @@
 
 ### 🧰 Customer Service Skill's
 
-![COMMUNICATION](https://img.shields.io/badge/COMMUNICATION%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![TROUBLESHOOTING](https://img.shields.io/badge/EFFECTIVE%20LISTENING%20-green?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![PROBLEM-SOLVING](https://img.shields.io/badge/TROUBLESHOOT%20-grey?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ACTIVE LISTENING](https://img.shields.io/badge/ADAPTABILITY%20-yellow?style=for-the-badge&logo=Adaptability&logoColor=white) ![EMAPATHY](https://img.shields.io/badge/Critical%20Thinking%20-F5C6EC?style=for-the-badge&logo=CriticalThinking&logoColor=white)
+![COMMUNICATION](https://img.shields.io/badge/COMMUNICATION%20-blue?style=for-the-badge&logo=technicalsupport&logoColor=white) ![TROUBLESHOOTING](https://img.shields.io/badge/TROUBLESHOOTING%20-green?style=for-the-badge&logo=EFFECTIVELISTENING&logoColor=white) ![PROBLEM-SOLVING](https://img.shields.io/badge/PROBLEM-SOLVING%20-grey?style=for-the-badge&logo=Troubleshoot&logoColor=white) ![ACTIVE LISTENING](https://img.shields.io/badge/ACTIVE%20 LISTENING%20-yellow?style=for-the-badge&logo=Adaptability&logoColor=white) ![EMAPATHY](https://img.shields.io/badge/EMAPATHY%20-F5C6EC?style=for-the-badge&logo=CriticalThinking&logoColor=white)
 
 </br>
 
 ### 🗄️ Soft Skill's
 
-![ADAPTABILITY](https://img.shields.io/badge/Time%20Management%20-F7DB6A?style=for-the-badge&logo=TimeManagement&logoColor=white) ![CREATIVE THINKING ](https://img.shields.io/badge/COMMUNICATION-7AA874?style=for-the-badge&logo=Communication&logoColor=white) ![DECISION MAKING](https://img.shields.io/badge/LEADERSHIP%20-D864A9?style=for-the-badge&logo=Leadership&logoColor=white) ![TEAMWORK](https://img.shields.io/badge/PROBLEM%20SOLVING%20-9A208C?style=for-the-badge&logo=ProblemSolving&logoColor=white)
+![ADAPTABILITY](https://img.shields.io/badge/ADAPTABILITY%20-F7DB6A?style=for-the-badge&logo=CREATIVE THINKING &logoColor=white) ![CREATIVE THINKING ](https://img.shields.io/badge/CREATIVE THINKING-7AA874?style=for-the-badge&logo=Communication&logoColor=white) ![DECISION MAKING](https://img.shields.io/badge/DECISION%20MAKING%20-D864A9?style=for-the-badge&logo=Leadership&logoColor=white) ![TEAMWORK](https://img.shields.io/badge/TEAMWORK%20-9A208C?style=for-the-badge&logo=ProblemSolving&logoColor=white)
 </br>
 
 
